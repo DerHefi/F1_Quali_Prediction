@@ -12,7 +12,7 @@ The AWS predictions are pretty inaccurate considering their ressources. Some of 
 
 # Repo Description #
 1. "F1_Quali_Prediction_Paper.pdf" is a short paper about this project, including a brief literature review, an overview of the methods used and an evaluation of the results.
-2. All used AWS predictions can be found in the folder "AWS_Predictions" algong with a file containing links to all the sites the predictions were taken from. Special thanks to the kind folks of reddit who helped me track down some of the AWS Predictions I couldn't find myself.
+2. All used AWS predictions can be found in the folder "AWS_Predictions" algong with a file containing links to all the sites the predictions were taken from. Special thanks to /u/peeinmyblackeyes and the kind folks of reddit who helped me track down some of the AWS Predictions I couldn't find myself.
 3. The file "evaluation.csv" contains the key figures for all 48 trained models
 4. The folder "cache_folder" is necessary to speed up the data collection with FastF1
 5. The "Tyre_range.csv" file contains information about what range of tyres was used at what weekend for the 2017-2021 seasons. 
