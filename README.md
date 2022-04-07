@@ -17,4 +17,4 @@ The AWS predictions are pretty inaccurate considering their ressources. Some of 
 4. The folder "cache_folder" is necessary to speed up the data collection with FastF1
 5. The "Tyre_range.csv" file contains information about what range of tyres was used at what weekend for the 2017-2021 seasons. 
    The file was not used in the final program.
-6. Running the "F1_Quali_Prediction.ipynb" takes around 5-6 hours. Most of the time is used to load the data (~30 min) and to train the Multilayer Perceptron Regressors (~ 4-5 hours). Note that you might have to install further packages in order to run the code. Even though the notebook contains some "!pip install ..." commands, these are by no means complete.
+6. Running the "F1_Quali_Prediction.ipynb" takes around 5-6 hours. Most of the time is used to load the data (ca. 30 min) and to train the Multilayer Perceptron Regressors (ca. 4-5 hours). Note that you might have to install further packages in order to run the code. Even though the notebook contains some "!pip install ..." commands, these are by no means complete.
