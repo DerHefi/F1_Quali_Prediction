@@ -1,0 +1,1 @@
+# The Cache folder speeds up the FastF1 library
